@@ -2,6 +2,7 @@
 // [B, conflict/B]
 // [A, conflict/A add]
 public class Board {
+    [A add]
     private int    id;
     private String title;
     private String author;
