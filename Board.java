@@ -1,4 +1,5 @@
 
+// [B, conflict/B]
 // [A, conflict/A add]
 public class Board {
     private int    id;
